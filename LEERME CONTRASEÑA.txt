@@ -1,0 +1,4 @@
+Usuario: admin
+Contraseña: admin
+
+Usuario y Contraseña para iniciar el sistema a la hora de ejecutar

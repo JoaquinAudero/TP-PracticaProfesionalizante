@@ -1,0 +1,9 @@
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\bin\Debug\Logica.dll
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\bin\Debug\Logica.pdb
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\obj\Debug\Logica.csproj.CopyComplete
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\obj\Debug\Logica.dll
+C:\Repo\Kiosco Practica Profesionalizante\Kiosco\Logic\obj\Debug\Logica.pdb

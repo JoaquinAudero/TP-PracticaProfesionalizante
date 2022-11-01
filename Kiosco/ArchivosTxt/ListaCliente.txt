@@ -1,0 +1,1 @@
+[{"idCliente":1,"nombre":"Tomas ","apellido":"Franchino","direccion":"25 De Mayo 14","telefono":"3493453565"},{"idCliente":2,"nombre":"Santiago","apellido":"Quiroga","direccion":"Montalbetti 1558","telefono":"3493416629"},{"idCliente":3,"nombre":"Valentiiiino","apellido":"Boscacccci","direccion":"LCDT","telefono":"3492123"}]
